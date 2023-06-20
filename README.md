@@ -40,3 +40,21 @@ Our capstone project is a testament to our collaborative spirit and the culminat
 We plan to continue our education and training in cybersecurity, and we are committed to using our skills and knowledge to make a positive impact on the world. We believe that cybersecurity is one of the most important challenges of our time, and we are proud to be a part of the solution.
 
 We are excited to see what the future holds for us, and we are confident that we will continue to make a difference in the world of cybersecurity. Thank you for your support!
+
+
+## Team A Members 👩‍💻|👨‍💻
+- Alena [@alena](https://github.com/alenapuzach)
+- Ameha [@ameha01](https://github.com/ameha01)
+- Anna [@annitamaria](https://github.com/orgs/cybertrainingrange/people/ANNITAMARIA)
+- Diego [@dagiraldo3](https://github.com/dagiraldo3)
+- Ella [@ellaowens](https://github.com/ellaowens)
+- Emilie [@emtechnode](https://github.com/emiliedionisio)
+- Francisco [@killbay](https://github.com/orgs/cybertrainingrange/people/killbay)
+- Gyan [@gyan](https://github.com/gyanlawson)
+- Jane [@jjperipheral](https://github.com/jjperipheral)
+- Jared [@jared](https://www.github.com/)
+- Mayra [@maira](https://github.com/mbarri0s)
+- Nancy [@nancyuddin](https://github.com/nancyuddin)
+- Neiman [@Neiman](https://github.com/bull-in-the-heather)
+- Victor [@vick627](https://github.com/vick627)
+- Volha [@voliatalatynik](https://github.com/voliatalatynik)
