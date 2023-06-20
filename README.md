@@ -1,7 +1,5 @@
 ## Cybersecurity Fellows 2022-2023 at The Knowledge House 
 
-#### [SPRINT 1 - RED TEAM]!(https://github.com/cybertrainingrange/redteam#readme) | [SPRINT 2 - BLUE TEAM]!(https://github.com/cybertrainingrange/blueteam#readme) | [SPRINT 3 - TEAM A]!(https://github.com/cybertrainingrange/ctre-team-a#readme) | [SPRINT 3 - TEAM B]!(https://github.com/cybertrainingrange/ctre-team-b#readme) | [SPRINT 4]!(https://github.com/cybertrainingrange/Sprint4#readme) | [SPRINT 5]!(https://github.com/cybertrainingrange/Sprint4#readme) | [SPRINT 6]!(https://github.com/cybertrainingrange/Sprint4#readme)<br /> 
-
 |  ![App Screenshot](https://drive.google.com/uc?export=view&id=1wmq7C6lU4MhB-a9UFy2dLDNSNElzSvQn)   |
 | ----------------------- |
 
