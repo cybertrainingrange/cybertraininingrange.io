@@ -42,7 +42,7 @@ We plan to continue our education and training in cybersecurity, and we are comm
 We are excited to see what the future holds for us, and we are confident that we will continue to make a difference in the world of cybersecurity. Thank you for your support!
 
 
-## Team A Members 👩‍💻|👨‍💻
+## Team Members 👩‍💻|👨‍💻
 - Alena [@alena](https://github.com/alenapuzach)
 - Ameha [@ameha01](https://github.com/ameha01)
 - Anna [@annitamaria](https://github.com/ANNITAMARIA)
