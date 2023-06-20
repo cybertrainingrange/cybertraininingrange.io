@@ -39,6 +39,11 @@ We plan to continue our education and training in cybersecurity, and we are comm
 
 We are excited to see what the future holds for us, and we are confident that we will continue to make a difference in the world of cybersecurity. Thank you for your support!
 
+## Technical Skills
+<p align="center">
+    <a href="https://github.com/emiliedionisio"><img src="https://skillicons.dev/icons?i=aws,linux,bash,github,git,docker,vim,python,html,css,markdown,visual studio," /></a>
+</p>
+
 
 ## Team Members 👩‍💻|👨‍💻
 - Alena [@alena](https://github.com/alenapuzach)
