@@ -4,9 +4,12 @@
 
 [![SPRINT 3 - TEAM A ](https://drive.google.com/uc?export=view&id=1uiNx7Cbh-QOToKmt8a2kGhgIkpP8-VcA)](https://github.com/cybertrainingrange/ctre-team-a#readme) 
 
-| Tech is the fastest growing industry in the market right now, every day new innovations and advances are introduced to society. There isn't a place that hasn't been touched by technology. It encompasses as we do. Our paper maps have been replaced with google maps. Our health records can be accessed and stored online, The majority of our financial dealings are done electronically. All our most precious moments are captured with a camera and stored on our computers or phones. Online shopping is at an all time high. 
+
+
+
+Tech is the fastest growing industry in the market right now, every day new innovations and advances are introduced to society. There isn't a place that hasn't been touched by technology. It encompasses as we do. Our paper maps have been replaced with google maps. Our health records can be accessed and stored online, The majority of our financial dealings are done electronically. All our most precious moments are captured with a camera and stored on our computers or phones. Online shopping is at an all time high. 
 With the growing demand, companies are working effortlessly to catch up and utilize these new advances to their benefit. Some of the most vital parts to growing a company is through networking and scalability. No company can grow if no one is aware of their services, and the population that the company message reaches has to be in need of the services being provided. This is what makes networking so essential. As for scalability, a company must be able to know how to allocate resources. If a company is unable to properly allocate resources this can result in them being disorganized, lose finances, and be more vulnerable to cyber attacks. As an effort to help assist users obtain the tools to be able to successfully navigate these necessary components we have tested numerous applications on the AWS cloud that assist in networking and scalability.
-When a company grows and begins to receive lots of revenue and traffic, this can become overwhelming and difficult to balance. Network Load Balancers is a useful tool for this. It is a tool that helps manage a large number of traffic targeted towards a specific web application by allowing you to make a target group to help direct traffic and allow you to direct the traffic where you want it to go. |
+When a company grows and begins to receive lots of revenue and traffic, this can become overwhelming and difficult to balance. Network Load Balancers is a useful tool for this. It is a tool that helps manage a large number of traffic targeted towards a specific web application by allowing you to make a target group to help direct traffic and allow you to direct the traffic where you want it to go. 
 
 
 
