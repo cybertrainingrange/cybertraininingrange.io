@@ -1,4 +1,4 @@
-## Cybersecurity Fellows 2022-2023 at The Knowledge House 
+## Cybersecurity Fellows 2023 at The Knowledge House 
 
 |  ![App Screenshot](https://drive.google.com/uc?export=view&id=1wmq7C6lU4MhB-a9UFy2dLDNSNElzSvQn)   |
 | ----------------------- |
