@@ -3,7 +3,9 @@
 
 ## 
 
-[ ![SPRINT 2 - BLUE TEAM](https://github.com/cybertrainingrange/blueteam#readme)](https://asseco.com/files/public/_processed_/csm_Togo_b7ced0b0d4.png)
+[![SPRINT 2 - BLUE TEAM ](https://asseco.com/files/public/_processed_/csm_Togo_b7ced0b0d4.png)](https://github.com/cybertrainingrange/blueteam#readme) 
+
+
 
 
  Cybersecurity is a crucial aspect of any organization that deals with sensitive information or data. With the growing reliance on technology and the internet, organizations are vulnerable to cyber attacks that can result in financial losses, reputation damage, and legal liabilities. In this paper, we will discuss cybersecurity defense strategies that organizations can adopt to protect their systems and data.
