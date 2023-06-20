@@ -3,7 +3,9 @@
 Sprint 4 Wireshark
 # Cyber Range Team Capstone Project Summary - Sprint 4 Anna & Fransico
 
-[![SPRINT 2 - BLUE TEAM](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco/assets/119987218/7e224571-cca0-42bf-befa-dc852d73bebf)](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco#readme) 
+[![SPRINT 4](https://asseco.com/files/public/_processed_/csm_Togo_b7ced0b0d4.png)](https://github.com/cybertrainingrange/blueteam#readme) 
+
+[![SPRINT 2 - BLUE TEAM](https://user-images.githubusercontent.com/119987218/239769865-7e224571-cca0-42bf-befa-dc852d73bebf.png)](https://github.com/cybertrainingrange/Sprint-4-Anna-Francisco#readme) 
 
 
 
