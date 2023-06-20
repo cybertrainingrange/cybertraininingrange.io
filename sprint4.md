@@ -7,10 +7,11 @@
 
 [![SPRINT 4](https://drive.google.com/uc?export=view&id=1G93WxGk2hq7BFgHSf-T5jOqpiimsGY5U)](https://github.com/cybertrainingrange/Sprint4#readme) 
 
-|  ![App Screenshot](https://drive.google.com/uc?export=view&id=1G93WxGk2hq7BFgHSf-T5jOqpiimsGY5U)  |
-| ----------------------- |
-| According to Statista, the internet amounts to about 5.16 billion users, roughly 64.4% of the global population (Statista, 2023). This rapidly growing ecosystem is a vital consideration when discussing network performance and the methods practiced to ensure that connected systems operate at proficient speed and deliver highly available services to users. Network performance issues imminently arrive, and when they do, it is the task of professionals to address these issues with solutions that improve communications and allow them to see what’s going on under the hood with every connection in the network.  |
 
+
+
+
+According to Statista, the internet amounts to about 5.16 billion users, roughly 64.4% of the global population (Statista, 2023). This rapidly growing ecosystem is a vital consideration when discussing network performance and the methods practiced to ensure that connected systems operate at proficient speed and deliver highly available services to users. Network performance issues imminently arrive, and when they do, it is the task of professionals to address these issues with solutions that improve communications and allow them to see what’s going on under the hood with every connection in the network. 
 
 
 
