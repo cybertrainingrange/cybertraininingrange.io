@@ -37,7 +37,7 @@ Our capstone project is a testament to our collaborative spirit and the culminat
 
 We plan to continue our education and training in cybersecurity, and we are committed to using our skills and knowledge to make a positive impact on the world. We believe that cybersecurity is one of the most important challenges of our time, and we are proud to be a part of the solution.
 
-We are excited to see what the future holds for us, and we are confident that we will continue to make a difference in the world of cybersecurity. Thank you for your support!
+We are excited to see what the future holds for us, and we are confident that we will continue to make a difference in the world of cybersecurity. 
 
 ## Technical Skills
 <p align="center">
